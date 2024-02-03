@@ -2,7 +2,7 @@ import os, sys, platform
 os.system('clear')
 try:os.system('rm -rf KAIDO')
 except:pass
-os.system("pkg uninstall python -y;pkg install python -y;pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests")
+#os.system("pkg uninstall python -y;pkg install python -y;pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests")
 try:os.system('git pull')
 except:pass
 bit = platform.architecture()[0]

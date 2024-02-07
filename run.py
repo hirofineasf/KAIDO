@@ -15,4 +15,3 @@ if bit == '64bit':
     os.system('chmod 777 KAIDO && ./KAIDO')
 elif bit == '32bit':
     exit("\x1b[1;91mSORRY BRO 32 BIT NOT SUPPORTED\x1b[1;97m")
-  

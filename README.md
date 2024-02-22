@@ -12,3 +12,4 @@ git clone --depth=1 https://github.com/KAIDO-143/KAIDO.git
 cd KAIDO
 python3 run.py
 ```
+![RANDOM-M4](https://github.com/KAIDO-143/config/blob/main/IMG-20240222-WA0051.jpg)
